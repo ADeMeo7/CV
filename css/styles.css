@@ -1,0 +1,22 @@
+body {
+  background-color: #EBFFFB;
+}
+
+hr {
+background-color: #EBFFFB;
+
+border-style: none;
+border-top-style: dotted;
+border-width: 5px;
+width: 5%;
+}
+h1 {
+  color: #66BFBF;
+  font-family: "Bitstream Cyberbit", Times, serif;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: "Times New Roman", Times, serif
+
+}
